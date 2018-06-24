@@ -1,3 +1,3 @@
 ![status](https://travis-ci.org/os4uinfo/playmusic.svg?branch=master)
-# playmusic
+# Playmusic
 play douban.fm music on cli.
